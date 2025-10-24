@@ -1,0 +1,13 @@
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#FFF44336</color>
+    <color name="blue_dark">#FF0D47A1</color>
+    <color name="green">#FF4CAF50</color>
+    <color name="yellow">#FFFFEB3B</color>
+    <color name="orange_muda">#FFE0B2</color>
+
+    <color name="colorPrimary">#0d1b2a</color>
+    <color name="colorPrimaryDark">#0a1622</color>
+    <color name="colorAccent">#f5c518</color>
+</resources>
